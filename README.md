@@ -2,10 +2,8 @@
 
 ## CONTACT INFORMATION
 
-[![Email](https://img.shields.io/badge/Email-tamerbenturquia%40outlook.com-red)](mailto:ghalibbenturquia@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-ghalibbenturquia%40gmail.com-red)](mailto:ghalibbenturquia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamer%20Benturquia-blue)](https://www.linkedin.com/in/tamer-benturquia-648b25301/)
-
 [![Location](https://img.shields.io/badge/Location-Sidi%20Bel%20Abbès%2C%20Algeria-green)]()
 
 ---
