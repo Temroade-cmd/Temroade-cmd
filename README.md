@@ -17,7 +17,7 @@ I enjoy building real-world projects that combine **AI, data, and practical prob
 ## 🛠️ Tech Stack
 
 **Programming Languages:**  
-Python, Java, C, C#, JavaScript  
+Python, Java, C, JavaScript  
 
 **AI / Data Science:**  
 Pandas, NumPy, YOLOv5, Machine Learning (Weka), Data Analysis  
@@ -25,11 +25,8 @@ Pandas, NumPy, YOLOv5, Machine Learning (Weka), Data Analysis
 **Databases:**  
 SQL, MongoDB, MERISE, UML  
 
-**Web & Backend:**  
-Laravel, Firebase, HTML, CSS, JavaScript  
-
 **Tools & Platforms:**  
-Unity, MATLAB, Git, Photoshop, Premiere Pro  
+MATLAB, Git, Photoshop, Premiere Pro  
 
 ---
 
