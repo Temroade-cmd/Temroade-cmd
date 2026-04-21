@@ -92,11 +92,11 @@ I am actively looking for a **Final-Year Internship (PFE)** in:
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- Email: ghalibbenturquia@gmail.com
-- Location: Algeria  
-- Open to opportunities & collaborations  
+📧 Email: tamerbenturquia@outlook.com  
+🔗 LinkedIn: https://linkedin.com/in/your-profile  
+📍 Location: Sidi Bel Abbès, Algeria  
 
 ---
 
