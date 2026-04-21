@@ -92,11 +92,18 @@ I am actively looking for a **Final-Year Internship (PFE)** in:
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact & Socials
 
-📧 Email: tamerbenturquia@outlook.com  
-🔗 LinkedIn: https://linkedin.com/in/your-profile  
-📍 Location: Sidi Bel Abbès, Algeria  
+✉️ **Email:** tamerbenturquia@outlook.com  
+💼 **LinkedIn:** https://linkedin.com/in/your-profile  
+🌍 **Location:** Sidi Bel Abbès, Algeria  
+
+---
+
+🤝 Open to:
+- Final-year internships (PFE)
+- AI / Data / Backend opportunities
+- Collaboration on real-world projects
 
 ---
 
