@@ -1,5 +1,15 @@
 # 👋 Hi, I'm a Master’s Student in Information Systems Engineering
 
+## CONTACT INFORMATION
+
+[![Email](https://img.shields.io/badge/Email-tamerbenturquia%40outlook.com-red)](mailto:ghalibbenturquia@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamer%20Benturquia-blue)](https://www.linkedin.com/in/tamer-benturquia-648b25301/)
+
+[![Location](https://img.shields.io/badge/Location-Sidi%20Bel%20Abbès%2C%20Algeria-green)]()
+
+---
+
 I am a passionate **software engineering student** specializing in **databases, artificial intelligence, and intelligent systems**.  
 I enjoy building real-world projects that combine **AI, data, and practical problem-solving in healthcare and security systems**.
 
@@ -7,10 +17,10 @@ I enjoy building real-world projects that combine **AI, data, and practical prob
 
 ## 🚀 About Me
 
-- 🎓 Master’s in Information Systems Engineering
-- 🧠 Interested in AI, Data Science, Backend Systems, and Smart Applications
-- 🔬 Focused on building practical, real-world intelligent systems
-- 🌍 Seeking a **Final-Year Internship (PFE) in Europe (France preferred)**
+- 🎓 Master’s in Information Systems Engineering  
+- 🧠 Interested in AI, Data Science, Backend Systems, and Intelligent Applications  
+- 🔬 Focused on building real-world AI-powered systems  
+- 🌍 Seeking a **Final-Year Internship (PFE) in Europe (France preferred)**  
 
 ---
 
@@ -25,6 +35,7 @@ Pandas, NumPy, YOLOv5, Machine Learning (Weka), Data Analysis
 **Databases:**  
 SQL, MongoDB, MERISE, UML  
 
+
 **Tools & Platforms:**  
 MATLAB, Git, Photoshop, Premiere Pro  
 
@@ -32,80 +43,56 @@ MATLAB, Git, Photoshop, Premiere Pro
 
 ## 📌 Featured Projects
 
-### 🏥 AI Medical Assistant (Clinical Decision Support System)
-An intelligent chatbot-based system designed to assist doctors in decision-making by analyzing patient data and providing suggestions.
+### 🏥 AI Medical Assistant System (Chatbot + Disease Prediction)
+An intelligent healthcare system combining a **medical chatbot** and a **cardiovascular disease prediction model** to assist doctors in decision-making.
 
 - AI-powered chatbot for medical assistance  
-- Disease prediction module (Cardiovascular risk prediction)  
-- Data-driven decision support system  
-- Built with machine learning techniques  
-
----
-
-### ❤️ Cardiovascular Disease Prediction System
-A machine learning project focused on predicting the risk of cardiovascular diseases using patient data.
-
-- Data preprocessing & feature engineering  
-- ML model training and evaluation  
-- Risk classification system for early detection  
+- Machine learning model for cardiovascular disease risk prediction  
+- Data-driven clinical decision support system  
+- Real-world healthcare AI application  
 
 ---
 
 ### 📷 Face Recognition System (Face ID using YOLOv5)
-A real-time face detection and recognition system using YOLOv5.
+A real-time face detection and recognition system using deep learning.
 
-- Real-time object detection  
-- Face recognition / identification system  
-- Optimized deep learning model for accuracy  
+- YOLOv5 object detection  
+- Face recognition / Face ID system  
+- Real-time AI processing  
 
 ---
 
 ### 🏥 Pharmacy Database Management System
-A structured database system for managing pharmaceutical data.
+A structured database system for managing pharmaceutical operations.
 
-- Product inventory management  
-- Stock tracking and updates  
-- Database design using MERISE/UML  
-- SQL-based implementation  
+- Inventory management system  
+- SQL-based database design  
+- MERISE / UML modeling  
+- Data consistency and tracking  
 
 ---
 
-## 🧠 What I’m Currently Focused On
+## 🧠 Current Focus
 
-- Scalable AI systems  
+- Artificial Intelligence systems  
+- Data Engineering fundamentals  
 - Backend architecture & APIs  
-- Data engineering fundamentals  
-- Real-world AI applications in healthcare  
+- Real-world machine learning applications  
 
 ---
 
-## 🎯 Goals
+## 🎯 Objective
 
-I am actively looking for a **Final-Year Internship (PFE)** in:
-- Data Engineering  
+Actively seeking a **Final-Year Internship (PFE)** in:
+
 - Artificial Intelligence  
+- Data Engineering  
 - Backend Development  
 - DevOps / Cloud Systems  
 
-📍 Open to relocation (France / Europe)  
 📄 Available with university internship convention  
+🌍 Open to relocation (France / Europe)
 
 ---
 
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-tamerbenturquia%40outlook.com-red)](mailto:tamerbenturquia@outlook.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/your-profile)
-
-[![Location](https://img.shields.io/badge/Location-Sidi%20Bel%20Abbès%2C%20Algeria-green)]()
----
-
-🤝 Open to:
-- Final-year internships (PFE)
-- AI / Data / Backend opportunities
-- Collaboration on real-world projects
-
----
-
-⭐ If you find my work interesting, feel free to connect or reach out!
+⭐ Open to collaboration and internship opportunities
