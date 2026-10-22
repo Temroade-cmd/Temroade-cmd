@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/tamer-benturquia-648b25301"><img src="https://img.shields.io/badge/linkedin-141414?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tamerbenturquia@outlook.com"><img src="https://img.shields.io/badge/email-141414?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Temroade-cmd/heart-alert-backend"><img src="https://img.shields.io/badge/heart%20alert-d6402b?style=for-the-badge&logo=heart&logoColor=white" alt="Heart Alert"></a>
+  <a href="https://portfolio-tem2033.netlify.app"><img src="https://img.shields.io/badge/portfolio-141414?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <br>
