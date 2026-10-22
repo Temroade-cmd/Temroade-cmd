@@ -30,7 +30,7 @@
   <text class="mono mute" x="876" y="44" font-size="12" letter-spacing="2.5">FIG. 4</text>
   <text class="serif ink" x="873" y="118" font-size="64">C2<tspan font-size="28" class="mute" dx="4"></tspan></text>
   <text class="serif ink" x="876" y="152" font-size="18">Français, Anglais</text>
-  <text class="serif mute" x="876" y="176" font-size="15" font-style="italic">TCF · EF SET</text>
+  <text class="serif mute" x="876" y="176" font-size="15" font-style="italic">TCF </text>
 </g><line class="rule" x1="852" y1="30" x2="852" y2="180" opacity=".35"/>
 <line class="rule" x1="48" y1="198" x2="1152" y2="198"/>
 </svg>
