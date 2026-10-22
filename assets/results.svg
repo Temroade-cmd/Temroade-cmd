@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Résultats">
+<style>
+  :root { --bg:#f6f4ef; --ink:#141414; --mute:#7a7770; --rule:#141414; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0d1117; --ink:#e9e6df; --mute:#8b8a85; --rule:#e9e6df; } }
+  .bg { fill:var(--bg); } .ink { fill:var(--ink); } .mute { fill:var(--mute); }
+  .serif { font-family: Georgia, 'Times New Roman', Times, serif; }
+  .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .rule { stroke:var(--rule); stroke-width:1; }
+  .fade { opacity:0; animation: in 1s ease forwards; }
+  @keyframes in { from { opacity:0; transform: translateY(8px); } to { opacity:1; transform:none; } }
+</style>
+<rect class="bg" width="1200" height="210"/>
+<line class="rule" x1="48" y1="12" x2="1152" y2="12"/>
+<g class="fade" style="animation-delay:0.15s">
+  <text class="mono mute" x="48" y="44" font-size="12" letter-spacing="2.5">FIG. 1</text>
+  <text class="serif ink" x="45" y="118" font-size="64">19,5<tspan font-size="28" class="mute" dx="4">/20</tspan></text>
+  <text class="serif ink" x="48" y="152" font-size="18">Mémoire de M2</text>
+  <text class="serif mute" x="48" y="176" font-size="15" font-style="italic">Heart Alert</text>
+</g><g class="fade" style="animation-delay:0.4s">
+  <text class="mono mute" x="324" y="44" font-size="12" letter-spacing="2.5">FIG. 2</text>
+  <text class="serif ink" x="321" y="118" font-size="64">93,7<tspan font-size="28" class="mute" dx="4">%</tspan></text>
+  <text class="serif ink" x="324" y="152" font-size="18">Exactitude</text>
+  <text class="serif mute" x="324" y="176" font-size="15" font-style="italic">XGBoost, 1190 patients</text>
+</g><line class="rule" x1="300" y1="30" x2="300" y2="180" opacity=".35"/><g class="fade" style="animation-delay:0.65s">
+  <text class="mono mute" x="600" y="44" font-size="12" letter-spacing="2.5">FIG. 3</text>
+  <text class="serif ink" x="597" y="118" font-size="64">3<tspan font-size="30" class="mute" dx="2" dy="-28">e</tspan></text>
+  <text class="serif ink" x="600" y="152" font-size="18">CTF OWASP Top 10</text>
+  <text class="serif mute" x="600" y="176" font-size="15" font-style="italic">Équipe Dedsec</text>
+</g><line class="rule" x1="576" y1="30" x2="576" y2="180" opacity=".35"/><g class="fade" style="animation-delay:0.9s">
+  <text class="mono mute" x="876" y="44" font-size="12" letter-spacing="2.5">FIG. 4</text>
+  <text class="serif ink" x="873" y="118" font-size="64">C2<tspan font-size="28" class="mute" dx="4"></tspan></text>
+  <text class="serif ink" x="876" y="152" font-size="18">Français, Anglais</text>
+  <text class="serif mute" x="876" y="176" font-size="15" font-style="italic">TCF · EF SET</text>
+</g><line class="rule" x1="852" y1="30" x2="852" y2="180" opacity=".35"/>
+<line class="rule" x1="48" y1="198" x2="1152" y2="198"/>
+</svg>
