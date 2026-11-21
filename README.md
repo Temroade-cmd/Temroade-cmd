@@ -15,11 +15,12 @@
 
 <p align="center"><i>
 Diplômé d'un master en ingénierie des systèmes d'information, je construis des logiciels<br>
-qui aident à décider. Mon dernier projet, Heart Alert, prédit le risque cardiovasculaire<br>
-et accompagne le médecin de la donnée brute jusqu'à l'application mobile.
+qui aident à décider. Mon mémoire, Heart Alert, prédit le risque cardiovasculaire<br>
+et accompagne le médecin de la donnée brute jusqu'à l'application mobile.<br>
+Depuis, je travaille l'ECG et l'imagerie médicale, un projet à la fois.
 </i></p>
 
-<p align="center"><sub><b>Mots-clés</b> &nbsp;·&nbsp; aide à la décision clinique &nbsp;·&nbsp; machine learning &nbsp;·&nbsp; full stack &nbsp;·&nbsp; données de santé</sub></p>
+<p align="center"><sub><b>Mots-clés</b> &nbsp;·&nbsp; aide à la décision clinique &nbsp;·&nbsp; machine learning &nbsp;·&nbsp; imagerie médicale &nbsp;·&nbsp; full stack &nbsp;·&nbsp; données de santé</sub></p>
 
 <br>
 
@@ -50,7 +51,17 @@ et accompagne le médecin de la donnée brute jusqu'à l'application mobile.
 
 <br>
 
-### `02` &nbsp; Méthodes
+### `02` &nbsp; Projets personnels
+
+| Projet | Ce qu'il fait | Outils |
+|---|---|---|
+| [`ecg-conformal`](https://github.com/Temroade-cmd/ecg-conformal) | Classifieur d'ECG 12 dérivations entraîné sur PTB-XL, qui dit « je ne sais pas » quand il n'est pas sûr (prédiction conforme). AUROC de 0,90 à 0,95 selon le diagnostic. En cours, l'app Streamlit | PyTorch · ONNX · GitHub Actions · Streamlit |
+| [`irm-dicom`](https://github.com/Temroade-cmd/irm-dicom) | Notebook qui lit une IRM de la tête au format DICOM, empile 384 coupes en volume 3D et l'affiche dans les trois plans | pydicom · NumPy · Matplotlib |
+| [`mot-juste`](https://github.com/Temroade-cmd/mot-juste) | Skill pour écrire en français sans le style des IA, avec un bonus pour les candidatures | Markdown · Claude Skills |
+
+<br>
+
+### `03` &nbsp; Méthodes
 
 ```console
 $ whoami
@@ -59,8 +70,9 @@ tamer benturquia · systèmes d'information · développement · ia santé
 $ cat stack.txt
 langages      python  java  dart  sql
 ml / ia       xgboost  scikit-learn  pytorch  tensorflow  hugging face  qlora
+santé         ecg (ptb-xl)  dicom (pydicom)  prédiction conforme
 vision        yolov5  opencv
-web / mobile  fastapi  flutter
+web / mobile  fastapi  flutter  streamlit
 données       postgresql  mongodb  entrepôts de données
 
 $ cat ailleurs.txt
@@ -72,15 +84,16 @@ hors écran    guitare · blender · lego
 
 <br>
 
-### `03` &nbsp; En cours
+### `04` &nbsp; En cours
 
 - [x] Mémoire de M2 soutenu, 19,5/20
 - [x] Heart Alert, du modèle à l'application
-- [ ] Master ou doctorat en France, rentrée 2027
-- [ ] Prochain projet, IA et imagerie médicale
+- [x] Lire et afficher une IRM DICOM en Python
+- [ ] ecg-conformal, l'app Streamlit en ligne
+- [ ] Master, doctorat ou poste en IA pour la santé, rentrée 2027
 
 <br>
 
 <p align="center"><sub>
-──────── &nbsp; Sidi Bel Abbès, Algérie &nbsp; · &nbsp; ouvert aux opportunités de master, doctorat et stage en France &nbsp; ────────
+──────── &nbsp; Sidi Bel Abbès, Algérie &nbsp; · &nbsp; ouvert aux opportunités de master, doctorat et emploi, en France et ailleurs &nbsp; ────────
 </sub></p>
